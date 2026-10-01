@@ -9,7 +9,7 @@
 
 // =========================================================================
 // CONFIGURATIONS CONNEXION (À COMPLÉTER)
-// ==== PA à intégrer =================================================
+// ==== PA à intégrer ==================================================
 // --- WI-FI & TELEGRAM ---
 const char* ssid = "xxxxxxxxxx";
 const char* password = "xxxxxxxxxxx";
